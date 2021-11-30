@@ -1,0 +1,12 @@
+[
+    {
+        "type": "VIDEO",
+        "mandatory": true,
+        "maxLengthInSeconds": 10
+    },
+    {
+        "type": "AUDIO",
+        "mandatory": true,
+        "maxLengthInSeconds": 10
+    }
+]
